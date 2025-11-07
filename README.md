@@ -11,9 +11,9 @@ This folder contains materials from the workshop session “Waste Ontologies in 
 Session Topics: Representing food and plastic waste in food systems – ongoing efforts to model healthy and sustainable practices for waste reduction and upscaling in healthy and resilient food systems.
 
 ### Session 2
-This folder contains materials from the workshop session “Sustainability, Food Systems, and Food and Plastic Wastes”.
+This folder contains materials from the workshop session “Conceptualizations of Sustainability, Food Systems, and Wastes”.
 
-Session Topics: Conceptualizing food and plastic waste in food systems – consequences and possible opportunities to enhance human health and food systems sustainability and resilience.
+Session Topics: Conceptualizing wastes in food systems – consequences and possible opportunities to enhance human health and food systems sustainability and resilience.
 
 ### Session 3
 This folder contains materials from the final general discussion with Panelists.
