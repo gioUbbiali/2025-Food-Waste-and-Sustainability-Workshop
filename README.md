@@ -20,4 +20,4 @@ This folder contains materials from the final general discussion with Panelists.
 
 Session Topics: Exploring connections and building synergies between sustainability and health ontologies – towards participatory and integrated approaches to conceptualize and represent waste, health, resilience, and sustainability of food systems.
 
-- A list of topics to drive the conversation.
+- [A list of topics to drive the debate](https://github.com/gioUbbiali/2025-Food-Waste-and-Sustainability-Workshop/blob/main/Session%203/topics%20for%20discussion%20-%20final%20session.pdf).
