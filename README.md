@@ -1,7 +1,10 @@
 # Food-Waste-and-Sustainability-2025-Workshop
 
 This repository hosts materials from the [Food, Waste, and Sustainability: Synergizing Ontology Efforts Workshop](https://sites.google.com/view/fws2025workshop/home-page) at the [ICBO2025](https://icbo-conference.github.io/icbo2025/).
+
 For more details on this workshop and workshop program, see [here](https://sites.google.com/view/fws2025workshop/home-page).
+
+See the recording of the workshop on YouTube at the following link: [https://www.youtube.com/watch?v=ywyW8tALU-Q](https://www.youtube.com/watch?v=ywyW8tALU-Q). 
 
 ## Repository structure
 
