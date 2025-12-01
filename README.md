@@ -4,7 +4,7 @@ This repository hosts materials from the [Food, Waste, and Sustainability: Syner
 
 For more details on this workshop and workshop program, see [here](https://sites.google.com/view/fws2025workshop/home-page).
 
-See the recording of the workshop on YouTube at the following link: [https://www.youtube.com/watch?v=ywyW8tALU-Q](https://www.youtube.com/watch?v=ywyW8tALU-Q). 
+See the recording of the workshop on YouTube at the following link: [here](https://www.youtube.com/watch?v=ywyW8tALU-Q). 
 
 ## Repository structure
 
