@@ -20,3 +20,8 @@ This folder contains materials from the final general discussion with Panelists.
 Session Topics: Exploring connections and building synergies between sustainability and health ontologies – towards participatory and integrated approaches to conceptualize and represent waste, health, resilience, and sustainability of food systems.
 
 - [A list of topics to drive the debate](https://github.com/gioUbbiali/2025-Food-Waste-and-Sustainability-Workshop/blob/main/Session%203/topics%20for%20discussion%20-%20final%20session.pdf).
+
+## Bibliogrphy
+
+- Ubbiali, G. A., and Jansen, L.. (2026). The ‘Food, Waste, and Sustainability: Synergizing Ontology Efforts’ 2025 Workshop -A Report. In Yamagata, Y., Amith, M. T., Ubbiali, G. A., Jansen, L., Duncan, W., Yu Lin, A. (Eds.), Proceedings of the 16th International Conference on Biological and Biomedical Ontology (ICBO 2025). [https://ceur-ws.org/Vol-4194/ws_food_report.pdf](https://ceur-ws.org/Vol-4194/ws_food_report.pdf).
+
