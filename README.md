@@ -23,5 +23,5 @@ Session Topics: Exploring connections and building synergies between sustainabil
 
 ## Bibliogrphy
 
-- Ubbiali, G. A., and Jansen, L.. (2026). The ‘Food, Waste, and Sustainability: Synergizing Ontology Efforts’ 2025 Workshop -A Report. In Yamagata, Y., Amith, M. T., Ubbiali, G. A., Jansen, L., Duncan, W., Yu Lin, A. (Eds.), Proceedings of the 16th International Conference on Biological and Biomedical Ontology (ICBO 2025). [https://ceur-ws.org/Vol-4194/ws_food_report.pdf](https://ceur-ws.org/Vol-4194/ws_food_report.pdf).
+- Ubbiali, G. A., and Jansen, L. (2026). The ‘Food, Waste, and Sustainability: Synergizing Ontology Efforts’ 2025 Workshop -A Report. In Yamagata, Y., Amith, M. T., Ubbiali, G. A., Jansen, L., Duncan, W., Yu Lin, A. (Eds.), Proceedings of the 16th International Conference on Biological and Biomedical Ontology (ICBO 2025). [https://ceur-ws.org/Vol-4194/ws_food_report.pdf](https://ceur-ws.org/Vol-4194/ws_food_report.pdf).
 
